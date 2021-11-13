@@ -11,7 +11,6 @@ number_of_elements = len(list_a)
 
 if number_of_elements == 0:
     print("m=-1, a=-1")
-
     
 total=0
     
